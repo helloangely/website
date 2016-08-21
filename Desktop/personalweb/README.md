@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-# website
-personal website
+#project personal website
 
 hello there, welcome to my github account. congrats! you have found my first project. it's my personal website. 
 
@@ -13,4 +10,3 @@ in my personal website, i hope to accomplish a few things:
 
 thanks for stopping by =)
 angely
->>>>>>> f27e2c91126b5014a09a64769edaf987b104d546

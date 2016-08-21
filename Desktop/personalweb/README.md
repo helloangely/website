@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-# web-dev
-# web-dev
-# web-dev
 =======
 # website
 personal website

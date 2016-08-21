@@ -15,18 +15,20 @@ h2 {
   font-size: 2em;
 }
 
-div.scrollmenu {
-    overflow: auto;
-    text-align: center;;
-    white-space: nowrap;
-    position:relative;
-    margin-top:30%;
+div {
+  text-align: center;
+
 }
 
-div.scrollmenu a {
+#circle {
+    width: 20px;
+    height: 20px;
+    background: #C0C0C0;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    margin: 20px;
     display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
+
+
 }

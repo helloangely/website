@@ -15,9 +15,8 @@ h2 {
   font-size: 2em;
 }
 
-div {
-  text-align: center;
-
+div { 
+  text-align: center; 
 }
 
 #circle {
@@ -30,5 +29,14 @@ div {
     margin: 20px;
     display: inline-block;
 
+}
 
+#rect {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 500px;
+  padding: 10px;
+  border: 5px solid #C0C0C0;
+  background: white;
+  margin: 10px; 
+  color: #074566;
 }

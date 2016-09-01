@@ -1,8 +1,8 @@
 html,body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
   padding: 1em 2em;
   font-size: 18px;
-  background: #e4f5f5;
+  background: #FFFFFF;
   color: #074566;
 }
 
@@ -19,6 +19,21 @@ div {
   text-align: center; 
 }
 
+p { 
+  text-align: center; 
+  font-size: 2em;
+}
+
+br {
+  text-align: center;
+}
+
+img {
+
+  width: 15%;
+  height: 15%;
+}
+
 #circle {
     width: 20px;
     height: 20px;
@@ -27,12 +42,20 @@ div {
     -webkit-border-radius: 50px;
     border-radius: 50px;
     margin: 20px;
-    display: inline-block;
+    
 
 }
 
+#menu {
+
+  position: fixed;
+    right: 8%;
+    top: 50%;
+    margin-top: -5em;
+}
+
+
 #rect {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   width: 500px;
   padding: 10px;
   border: 5px solid #C0C0C0;
@@ -40,3 +63,12 @@ div {
   margin: 10px; 
   color: #074566;
 }
+
+#smallrect {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #C0C0C0;
+  margin: auto;
+}
+
+
